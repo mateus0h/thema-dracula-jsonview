@@ -1,7 +1,7 @@
 body {
     white-space: pre;
     font-family: monospace;
-    font-size: 16px;
+    font-size: 12px;
     background: #282a36;
     color: #f8f8f2;
 }
@@ -9,7 +9,7 @@ body {
 a:link, a:hover, a:visited {
     text-decoration: none;
 }
-
+ 
 a:link {
     color: #ff79c6;
 }
