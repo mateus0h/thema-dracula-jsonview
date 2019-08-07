@@ -1,4 +1,4 @@
-# [Thema Dracula](https://github.com/mateus9/thema-dracula-jsonview) Chorme JsonView extesion.
+# [Thema Dracula](https://github.com/mateus9/thema-dracula-jsonview) Chrome JsonView extesion.
 
 Como adicionar
 
