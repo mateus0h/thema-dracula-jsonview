@@ -1,6 +1,6 @@
 # [Thema Dracula](https://github.com/mateus9/thema-dracula-jsonview) Chrome JsonView extesion.
 
-Como adicionar
+Como adicionar:
 
 1 - Primiro Instale [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) No Google Chrome Web Store.<br>
 
